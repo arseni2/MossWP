@@ -1,0 +1,92 @@
+2023-08-13T16:37:08+00:00 CRITICAL Maximum execution time of 60 seconds exceeded в D:\OSPanel\domains\moss\wp-admin\includes\class-wp-filesystem-direct.php на строке 82
+
+2023-08-13T19:31:49+00:00 CRITICAL Uncaught Error: Call to undefined method WP_Post::get_image() in D:\OSPanel\domains\moss\wp-content\themes\mosstheme\index.php:64
+Stack trace:
+#0 D:\OSPanel\domains\moss\wp-includes\template-loader.php(106): include()
+#1 D:\OSPanel\domains\moss\wp-blog-header.php(19): require_once('D:\\OSPanel\\doma...')
+#2 D:\OSPanel\domains\moss\index.php(17): require('D:\\OSPanel\\doma...')
+#3 {main}
+  thrown в D:\OSPanel\domains\moss\wp-content\themes\mosstheme\index.php на строке 64
+
+2023-08-13T19:33:32+00:00 CRITICAL Uncaught Error: Undefined constant "id" in D:\OSPanel\domains\moss\wp-content\themes\mosstheme\index.php:64
+Stack trace:
+#0 D:\OSPanel\domains\moss\wp-includes\template-loader.php(106): include()
+#1 D:\OSPanel\domains\moss\wp-blog-header.php(19): require_once('D:\\OSPanel\\doma...')
+#2 D:\OSPanel\domains\moss\index.php(17): require('D:\\OSPanel\\doma...')
+#3 {main}
+  thrown в D:\OSPanel\domains\moss\wp-content\themes\mosstheme\index.php на строке 64
+
+2023-08-13T19:34:04+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_Post as array in D:\OSPanel\domains\moss\wp-content\themes\mosstheme\index.php:64
+Stack trace:
+#0 D:\OSPanel\domains\moss\wp-includes\template-loader.php(106): include()
+#1 D:\OSPanel\domains\moss\wp-blog-header.php(19): require_once('D:\\OSPanel\\doma...')
+#2 D:\OSPanel\domains\moss\index.php(17): require('D:\\OSPanel\\doma...')
+#3 {main}
+  thrown в D:\OSPanel\domains\moss\wp-content\themes\mosstheme\index.php на строке 64
+
+2023-08-13T19:34:23+00:00 CRITICAL Uncaught Error: Undefined constant "ID" in D:\OSPanel\domains\moss\wp-content\themes\mosstheme\index.php:64
+Stack trace:
+#0 D:\OSPanel\domains\moss\wp-includes\template-loader.php(106): include()
+#1 D:\OSPanel\domains\moss\wp-blog-header.php(19): require_once('D:\\OSPanel\\doma...')
+#2 D:\OSPanel\domains\moss\index.php(17): require('D:\\OSPanel\\doma...')
+#3 {main}
+  thrown в D:\OSPanel\domains\moss\wp-content\themes\mosstheme\index.php на строке 64
+
+2023-08-13T19:36:23+00:00 CRITICAL Uncaught Error: Call to undefined method WP_Post::get_image_id() in D:\OSPanel\domains\moss\wp-content\themes\mosstheme\index.php:52
+Stack trace:
+#0 D:\OSPanel\domains\moss\wp-content\themes\mosstheme\index.php(112): get_images()
+#1 D:\OSPanel\domains\moss\wp-includes\template-loader.php(106): include('D:\\OSPanel\\doma...')
+#2 D:\OSPanel\domains\moss\wp-blog-header.php(19): require_once('D:\\OSPanel\\doma...')
+#3 D:\OSPanel\domains\moss\index.php(17): require('D:\\OSPanel\\doma...')
+#4 {main}
+  thrown в D:\OSPanel\domains\moss\wp-content\themes\mosstheme\index.php на строке 52
+
+2023-08-13T19:49:22+00:00 CRITICAL Uncaught Error: Call to undefined function get_the_price() in D:\OSPanel\domains\moss\wp-content\themes\mosstheme\index.php:89
+Stack trace:
+#0 D:\OSPanel\domains\moss\wp-includes\template-loader.php(106): include()
+#1 D:\OSPanel\domains\moss\wp-blog-header.php(19): require_once('D:\\OSPanel\\doma...')
+#2 D:\OSPanel\domains\moss\index.php(17): require('D:\\OSPanel\\doma...')
+#3 {main}
+  thrown в D:\OSPanel\domains\moss\wp-content\themes\mosstheme\index.php на строке 89
+
+2023-08-13T19:49:53+00:00 CRITICAL Uncaught Error: Call to a member function get_price() on array in D:\OSPanel\domains\moss\wp-content\themes\mosstheme\index.php:89
+Stack trace:
+#0 D:\OSPanel\domains\moss\wp-includes\template-loader.php(106): include()
+#1 D:\OSPanel\domains\moss\wp-blog-header.php(19): require_once('D:\\OSPanel\\doma...')
+#2 D:\OSPanel\domains\moss\index.php(17): require('D:\\OSPanel\\doma...')
+#3 {main}
+  thrown в D:\OSPanel\domains\moss\wp-content\themes\mosstheme\index.php на строке 89
+
+2023-08-13T19:50:23+00:00 CRITICAL Uncaught Error: Call to undefined method WP_Post::get_price() in D:\OSPanel\domains\moss\wp-content\themes\mosstheme\index.php:89
+Stack trace:
+#0 D:\OSPanel\domains\moss\wp-includes\template-loader.php(106): include()
+#1 D:\OSPanel\domains\moss\wp-blog-header.php(19): require_once('D:\\OSPanel\\doma...')
+#2 D:\OSPanel\domains\moss\index.php(17): require('D:\\OSPanel\\doma...')
+#3 {main}
+  thrown в D:\OSPanel\domains\moss\wp-content\themes\mosstheme\index.php на строке 89
+
+2023-08-13T19:52:02+00:00 CRITICAL Uncaught Error: Call to undefined function WC_Product() in D:\OSPanel\domains\moss\wp-content\themes\mosstheme\index.php:83
+Stack trace:
+#0 D:\OSPanel\domains\moss\wp-includes\template-loader.php(106): include()
+#1 D:\OSPanel\domains\moss\wp-blog-header.php(19): require_once('D:\\OSPanel\\doma...')
+#2 D:\OSPanel\domains\moss\index.php(17): require('D:\\OSPanel\\doma...')
+#3 {main}
+  thrown в D:\OSPanel\domains\moss\wp-content\themes\mosstheme\index.php на строке 83
+
+2023-08-13T19:53:39+00:00 CRITICAL Uncaught Error: Call to a member function get_price() on array in D:\OSPanel\domains\moss\wp-content\themes\mosstheme\index.php:90
+Stack trace:
+#0 D:\OSPanel\domains\moss\wp-includes\template-loader.php(106): include()
+#1 D:\OSPanel\domains\moss\wp-blog-header.php(19): require_once('D:\\OSPanel\\doma...')
+#2 D:\OSPanel\domains\moss\index.php(17): require('D:\\OSPanel\\doma...')
+#3 {main}
+  thrown в D:\OSPanel\domains\moss\wp-content\themes\mosstheme\index.php на строке 90
+
+2023-08-13T19:54:02+00:00 CRITICAL Uncaught ArgumentCountError: var_dump() expects at least 1 argument, 0 given in D:\OSPanel\domains\moss\wp-content\themes\mosstheme\index.php:83
+Stack trace:
+#0 D:\OSPanel\domains\moss\wp-content\themes\mosstheme\index.php(83): var_dump()
+#1 D:\OSPanel\domains\moss\wp-includes\template-loader.php(106): include('D:\\OSPanel\\doma...')
+#2 D:\OSPanel\domains\moss\wp-blog-header.php(19): require_once('D:\\OSPanel\\doma...')
+#3 D:\OSPanel\domains\moss\index.php(17): require('D:\\OSPanel\\doma...')
+#4 {main}
+  thrown в D:\OSPanel\domains\moss\wp-content\themes\mosstheme\index.php на строке 83
+

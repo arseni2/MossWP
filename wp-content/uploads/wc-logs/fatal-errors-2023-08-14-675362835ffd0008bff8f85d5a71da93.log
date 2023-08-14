@@ -1,0 +1,33 @@
+2023-08-14T11:29:17+00:00 CRITICAL Uncaught Error: Call to undefined method WP_Post::add_to_cart_url() in D:\OSPanel\domains\moss\wp-content\themes\mosstheme\index.php:78
+Stack trace:
+#0 D:\OSPanel\domains\moss\wp-includes\template-loader.php(106): include()
+#1 D:\OSPanel\domains\moss\wp-blog-header.php(19): require_once('D:\\OSPanel\\doma...')
+#2 D:\OSPanel\domains\moss\index.php(17): require('D:\\OSPanel\\doma...')
+#3 {main}
+  thrown в D:\OSPanel\domains\moss\wp-content\themes\mosstheme\index.php на строке 78
+
+2023-08-14T11:30:06+00:00 CRITICAL Uncaught Error: Call to a member function add_to_cart_url() on array in D:\OSPanel\domains\moss\wp-content\themes\mosstheme\index.php:78
+Stack trace:
+#0 D:\OSPanel\domains\moss\wp-includes\template-loader.php(106): include()
+#1 D:\OSPanel\domains\moss\wp-blog-header.php(19): require_once('D:\\OSPanel\\doma...')
+#2 D:\OSPanel\domains\moss\index.php(17): require('D:\\OSPanel\\doma...')
+#3 {main}
+  thrown в D:\OSPanel\domains\moss\wp-content\themes\mosstheme\index.php на строке 78
+
+2023-08-14T11:32:21+00:00 CRITICAL Uncaught ArgumentCountError: var_dump() expects at least 1 argument, 0 given in D:\OSPanel\domains\moss\wp-content\themes\mosstheme\index.php:78
+Stack trace:
+#0 D:\OSPanel\domains\moss\wp-content\themes\mosstheme\index.php(78): var_dump()
+#1 D:\OSPanel\domains\moss\wp-includes\template-loader.php(106): include('D:\\OSPanel\\doma...')
+#2 D:\OSPanel\domains\moss\wp-blog-header.php(19): require_once('D:\\OSPanel\\doma...')
+#3 D:\OSPanel\domains\moss\index.php(17): require('D:\\OSPanel\\doma...')
+#4 {main}
+  thrown в D:\OSPanel\domains\moss\wp-content\themes\mosstheme\index.php на строке 78
+
+2023-08-14T12:04:49+00:00 CRITICAL Uncaught Error: Call to undefined method WP_Post::get_sku() in D:\OSPanel\domains\moss\wp-content\themes\mosstheme\index.php:106
+Stack trace:
+#0 D:\OSPanel\domains\moss\wp-includes\template-loader.php(106): include()
+#1 D:\OSPanel\domains\moss\wp-blog-header.php(19): require_once('D:\\OSPanel\\doma...')
+#2 D:\OSPanel\domains\moss\index.php(17): require('D:\\OSPanel\\doma...')
+#3 {main}
+  thrown в D:\OSPanel\domains\moss\wp-content\themes\mosstheme\index.php на строке 106
+

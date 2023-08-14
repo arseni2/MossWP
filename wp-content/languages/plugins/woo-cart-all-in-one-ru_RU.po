@@ -1,0 +1,907 @@
+# Translation of Plugins - Cart All In One For WooCommerce - Development (trunk) in Russian
+# This file is distributed under the same license as the Plugins - Cart All In One For WooCommerce - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-05-25 13:46:21+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.0-alpha.6\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - Cart All In One For WooCommerce - Development (trunk)\n"
+
+#: includes/support.php:802
+msgid "Cancel"
+msgstr "Отмена"
+
+#: includes/support.php:762
+msgid "Other"
+msgstr "Другой"
+
+#: includes/admin/design.php:922
+msgid "Product Counter type"
+msgstr "Счетчик товара"
+
+#: includes/admin/design.php:848
+msgid "Use an image for the cart icon"
+msgstr "Выберите изображение для значка корзины"
+
+#: includes/admin/design.php:707
+msgid "Cart icon Style"
+msgstr "Стиль значка корзины"
+
+#: includes/admin/design.php:516
+msgid "Sidebar Cart Content Vertical(px)"
+msgstr "Содержимое боковой панели корзины по вертикали"
+
+#: includes/admin/design.php:500
+msgid "Sidebar Cart Content Horizontal(px)"
+msgstr "Содержимое боковой панели корзины по горизонтали"
+
+#: includes/admin/design.php:1881
+msgid "Enable Product Title Link"
+msgstr "Включить ссылку на название продукта"
+
+#: includes/admin/design.php:1694
+msgid "Upsell Products"
+msgstr "Допродажа товара"
+
+#: includes/admin/design.php:1692
+msgid "Select Products"
+msgstr "Выберите товар"
+
+#: includes/admin/design.php:1691
+msgid "Select Categories"
+msgstr "Выберите категории"
+
+#: includes/admin/design.php:1688
+msgid "Cross-sells Products"
+msgstr "Перекрестные продажи товаров"
+
+#: includes/admin/design.php:443 includes/admin/design.php:2129
+msgid "Mobile Enable"
+msgstr "Включить мобильный режим"
+
+#: includes/admin/design.php:1689
+msgid "Featured products"
+msgstr "Рекомендуемые товары"
+
+#: includes/admin/design.php:1962
+msgid "Product subtotal"
+msgstr "Итог товара"
+
+#: includes/admin/design.php:1961
+msgid "Qty & price"
+msgstr "Количевство и цена"
+
+#: includes/admin/design.php:1956
+msgid "Price Style"
+msgstr "Стыль цены"
+
+#: includes/admin/design.php:1317
+msgid "Enable Applied Coupons"
+msgstr "Включить примененные купоны"
+
+#: includes/admin/design.php:1960
+msgid "Product price"
+msgstr "Цена товара"
+
+#: includes/frontend/frontend.php:230
+#: includes/templates/vicaio-product-quantity-html.php:20
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr "Кол-во"
+
+#: includes/admin/cart.php:203
+msgid "Allow checkout directly on Sidebar Cart without going to checkout page"
+msgstr "Разрешить оформление заказа прямо в виджете Корзины без перехода на страницу оформления заказа"
+
+#: includes/admin/cart.php:192
+msgid "Checkout on Sidebar Cart"
+msgstr "Оформить заказ в виджете Корзина"
+
+#: includes/admin/cart.php:186
+msgid "Adding the 3rd class/id, which allows to open Sidebar Cart content when clicking"
+msgstr "Добавление 3-го класса/идентификатора, который позволяет открывать содержимое корзины боковой панели при нажатии"
+
+#: includes/admin/cart.php:179
+msgid "Class/Id to open sidebar cart content"
+msgstr "Класс/идентификатор для открытия содержимого корзины в виджете"
+
+#: includes/admin/cart.php:173
+msgid " The sidebar cart will not work on cart page and checkout page"
+msgstr "Корзина в области виджетов не будет работать на странице корзины и странице оформления заказа."
+
+#: includes/admin/cart.php:142
+msgid "Show Sidebar Cart icon on your site"
+msgstr "Показывать значок корзины в боковой панели на вашем сайте"
+
+#: includes/admin/cart.php:135
+msgid "Enable sidebar cart icon"
+msgstr "Включить значок корзины на боковой панели"
+
+#: includes/admin/design.php:1690
+msgid "Recently Viewed products"
+msgstr "Недавно просмотренные товары"
+
+#: includes/admin/cart.php:357
+msgid "Display the notification of adding products to cart successfully after adding to cart by Ajax"
+msgstr "Отображение уведомления об успешном добавлении продуктов в корзину после добавления в корзину с помощью Ajax"
+
+#: includes/admin/cart.php:348
+msgid "Notification"
+msgstr "Уведомление"
+
+#: includes/admin/cart.php:342
+msgid "Add the products which are not applied ajax add to cart"
+msgstr "Добавить товары, которые не применяются ajax добавить в корзину"
+
+#: includes/admin/cart.php:308
+msgid "AJAX Add to Cart"
+msgstr "AJAX Добавить в корзину"
+
+#: includes/admin/cart.php:293
+msgid "Go to design Menu Cart"
+msgstr "Перейти в меню дизайна корзины"
+
+#: includes/admin/cart.php:280
+msgid "Select menus to display the menu Cart.  Clicking on save button before \"Go to Design\""
+msgstr "Выберите меню для отображения меню Корзины. Нажмите на кнопку «Сохранить» перед «Перейти к дизайну»"
+
+#: includes/admin/cart.php:262
+msgid "Show Menu Cart cart even when it is empty"
+msgstr "Показывать меню корзины, даже если она пуста"
+
+#: includes/admin/cart.php:249
+msgid "Display menu cart on Mobile mode"
+msgstr "Показывать меню корзины в мобильном режиме"
+
+#: includes/admin/cart.php:216 includes/admin/cart.php:291
+msgid "Go to design"
+msgstr "Перейти к дизайну"
+
+#: includes/admin/cart.php:172
+msgid "WP's conditional tags."
+msgstr "Условные теги WP."
+
+#: includes/admin/cart.php:169
+msgid "Ex: !is_page(array(123,41,20))"
+msgstr "Пример: !is_page(array(123,41,20))"
+
+#: includes/admin/cart.php:165
+msgid "Assign page"
+msgstr "Назначить страницу"
+
+#: includes/admin/cart.php:158
+msgid "Show Sidebar cart even when it is empty"
+msgstr "Показывать корзину на боковой панели, даже если она пуста"
+
+#: includes/admin/cart.php:130
+msgid "Display Sidebar Cart on Mobile"
+msgstr "Отображение корзины боковой панели на мобильном устройстве"
+
+#: includes/admin/cart.php:122 includes/admin/cart.php:242
+msgid "Mobile enable"
+msgstr "Включить мобильный режим"
+
+#: includes/admin/cart.php:19
+msgid "Cart All In One"
+msgstr "Все в одной корзине"
+
+#: includes/admin/design.php:2327
+msgid "Sticky Add To Cart Button"
+msgstr "Липкая кнопка «Добавить в корзину»"
+
+#: includes/admin/design.php:2153
+msgid "Choose the page redirected to when clicking on Menu Cart"
+msgstr "Выберите страницу, на которую осуществляется перенаправление при нажатии на меню корзины."
+
+#: includes/admin/design.php:2043
+msgid "Font Size for Trash Icon(px)"
+msgstr "Размер шрифта для значка корзины (px)"
+
+#: includes/admin/design.php:1998
+msgid "Quantity Border Radius(px)"
+msgstr "Радиус границы (px)"
+
+#: includes/admin/design.php:1980
+msgid "Quantity Border Color"
+msgstr "Цвет границы"
+
+#: includes/admin/design.php:1802
+msgid "Update cart when changing the product quantity"
+msgstr "Обновлять корзину при изменении количества товара"
+
+#: includes/admin/design.php:1774
+msgid "Cart button on Product Plus"
+msgstr "Кнопка корзины в Товары Плюс"
+
+#: includes/admin/design.php:1761
+msgid "The maximum number of  showed products is 15"
+msgstr "Максимальное количество отображаемых товаров 15"
+
+#: includes/admin/design.php:1720
+msgid "The title of suggested products list in footer"
+msgstr "Название списка предлагаемых продуктов в нижнем колонтитуле"
+
+#: includes/admin/design.php:1719
+msgid "Product Plus Title"
+msgstr "Оглавление Товаров плюс "
+
+#: includes/admin/design.php:1670
+msgid "Custom Message"
+msgstr "Пользовательское сообщение"
+
+#: includes/admin/design.php:1649
+msgid "Update Button Radius(px)"
+msgstr "Обновить радиус кнопки (px)"
+
+#: includes/admin/design.php:1357
+msgid "Total Text"
+msgstr "Весь текст"
+
+#: includes/admin/design.php:771
+msgid "Set the size of Sidebar Cart Icon when hovering"
+msgstr "Установите размер значка корзины на боковой панели при наведении"
+
+#: includes/admin/design.php:763
+msgid "Sidebar Cart Icon Size When Hovering"
+msgstr "Размер значка корзины на боковой панели при наведении"
+
+#: includes/admin/design.php:749
+msgid "Set the sidebar cart icon size. This new size parameter need to be the a ratio compared with original icon size"
+msgstr "Установите размер значка корзины на боковой панели. Этот новый параметр размера должен быть в соотношение по сравнению с исходным размером значка."
+
+#: includes/admin/design.php:741
+msgid "Sidebar Cart Icon Size"
+msgstr "Размер значка корзины на боковой панели"
+
+#: includes/admin/design.php:627
+msgid "RotateInUp"
+msgstr "Повернуть вверх"
+
+#: includes/admin/design.php:626
+msgid "RotateInDown"
+msgstr "Повернуть Вниз"
+
+#: includes/admin/design.php:624
+msgid "Roll"
+msgstr "Рулон"
+
+#: includes/admin/design.php:623
+msgid "Slide"
+msgstr "Слайд"
+
+#: includes/admin/design.php:622
+msgid "Flip"
+msgstr "Подбросить"
+
+#: includes/admin/design.php:621
+msgid "Fade"
+msgstr "Тускнеть"
+
+#: includes/admin/design.php:602
+msgid "If choose \"Click\", the cart content will be shown after clicking on the cart icon"
+msgstr "Если выбрать «Нажать», содержимое корзины будет показано после нажатия на значок корзины."
+
+#: includes/admin/design.php:577
+msgid "Open cart"
+msgstr "Открыть корзину"
+
+#: includes/admin/design.php:572
+msgid "Cart Effect After Add Product"
+msgstr "Эффект корзины после добавления товара"
+
+#: includes/admin/design.php:557
+msgid "The products will be flown to Cart after clicking on add to cart button"
+msgstr "Товары будут перемещены в корзину после нажатия кнопки «Добавить в корзину»."
+
+#: includes/admin/cart.php:139 includes/admin/cart.php:183
+#: includes/admin/cart.php:200 includes/admin/cart.php:417
+#: includes/admin/cart.php:424 includes/customize-control.php:22
+#: includes/customize-control.php:27
+msgid "Unlock This Feature"
+msgstr "Разблокировать эту функцию"
+
+#: includes/admin/cart.php:409
+msgid "Sticky Add To Cart on single product page"
+msgstr "Прикрепить \"Добавить в корзину\" на отдельной странице товаров"
+
+#: includes/admin/cart.php:362
+msgid "Add to Cart for variable products"
+msgstr "Добавить в корзину для переменных продуктов"
+
+#: includes/admin/design.php:2353
+msgid "Checkout"
+msgstr "Оформление заказа"
+
+#: includes/admin/cart.php:325
+msgid "Exclude products"
+msgstr "Исключить товары"
+
+#: includes/frontend/ajax-add-to-cart.php:33
+#: includes/frontend/variable-atc.php:67
+msgid "Please select some product options before adding this product to your cart."
+msgstr "Выберите опции товара перед его добавлением в вашу корзину."
+
+#: includes/templates/sidebar-cart/sc-product-list-html.php:38
+msgid "Remove this item"
+msgstr "Удалить эту позицию"
+
+#: includes/admin/cart.php:428
+msgid "Save"
+msgstr "Сохранить"
+
+#: includes/frontend/ajax-add-to-cart.php:34
+#: includes/frontend/variable-atc.php:68
+msgid "Sorry, this product is unavailable. Please choose a different combination."
+msgstr "Этот товар недоступен. Пожалуйста, выберите другую комбинацию."
+
+#: includes/admin/cart.php:210 includes/admin/cart.php:285
+msgid "Design"
+msgstr "Оформление"
+
+#: includes/admin/design.php:576 includes/admin/design.php:1686
+msgid "None"
+msgstr "Нет"
+
+#: includes/admin/design.php:625
+msgid "Rotate"
+msgstr "Повернуть"
+
+#: includes/admin/design.php:628
+msgid "Zoom"
+msgstr "Увеличить"
+
+#: includes/frontend/menu-cart.php:57
+msgid "View your shopping cart"
+msgstr "Просмотр вашей корзины"
+
+#: includes/frontend/menu-cart.php:57
+msgid "Quick checkout"
+msgstr "Быстрая оплата"
+
+#: includes/admin/cart.php:403 includes/frontend/frontend.php:186
+#: includes/templates/variation-popup.php:83
+msgid "Add To Cart"
+msgstr "Добавить в корзину"
+
+#: includes/admin/cart.php:405
+msgid "Enter you own label for the add to cart button of variable products"
+msgstr "Введите собственный ярлык для кнопки «Добавить в корзину» вариативных товаров."
+
+#: includes/admin/cart.php:381 includes/admin/cart.php:398
+msgid "Add to Cart button label"
+msgstr "Надпись на кнопке «Добавить в корзину»"
+
+#: includes/admin/cart.php:391
+msgid "Change the label of the add to cart button with variable products"
+msgstr "Измените метку кнопки «Добавить в корзину» с переменными продуктами"
+
+#: includes/admin/cart.php:375
+msgid "After click add to cart button, a pop-up will appear allowing select variations and add to cart without redirect to the single product page."
+msgstr "После нажатия кнопки «Добавить в корзину» появится всплывающее окно, позволяющее выбрать варианты и добавить в корзину без перенаправления на страницу одного продукта."
+
+#: includes/admin/cart.php:366
+msgid "Select variation pop-up"
+msgstr "Выберите вариант всплываеющего окна"
+
+#: includes/admin/cart.php:320
+msgid "Add product to cart without reloading on single product pages and Quick View popup."
+msgstr "Добавьте продукт в корзину без перезагрузки на отдельных страницах продукта и во всплывающем окне быстрого просмотра."
+
+#: includes/admin/cart.php:254
+msgid "Visible empty menu cart"
+msgstr "Видимая пустая корзина меню"
+
+#: includes/admin/cart.php:171
+msgid "Set pages to display the sidebar cart using"
+msgstr "Настройте страницы для отображения корзины боковой панели, используя"
+
+#: includes/admin/cart.php:149
+msgid "Visible empty sidebar cart icon"
+msgstr "Видимый пустой значок корзины на боковой панели"
+
+#: includes/admin/cart.php:97
+msgid "Add To Cart Button"
+msgstr "Кнопка \"Добавить в корзину\""
+
+#: includes/admin/design.php:600
+msgid "Click"
+msgstr "Нажать"
+
+#: includes/admin/design.php:599
+msgid "MouseOver"
+msgstr "Наведение мишью"
+
+#: includes/admin/design.php:595
+msgid "Sidebar Trigger Event Type"
+msgstr "Тип триггерного события боковой панели"
+
+#: includes/admin/design.php:675
+msgid "Loading Color"
+msgstr "Загрузка цвета"
+
+#: includes/admin/design.php:659
+msgid "Spinner"
+msgstr "Спиннер"
+
+#: includes/admin/design.php:658
+msgid "Ripple"
+msgstr "пульсация"
+
+#: includes/admin/design.php:657
+msgid "Loader Balls 3"
+msgstr "Мячи погрузчика 3"
+
+#: includes/admin/design.php:656
+msgid "Loader Balls 2"
+msgstr "Мячи погрузчика 2"
+
+#: includes/admin/design.php:655
+msgid "Loader Balls 1"
+msgstr "Мячи погрузчика 1"
+
+#: includes/admin/design.php:654
+msgid "Roller"
+msgstr "Ролик"
+
+#: includes/admin/design.php:653
+msgid "Ring"
+msgstr "Кольцо"
+
+#: includes/admin/design.php:652
+msgid "Animation Facebook 2"
+msgstr "Анимация Фейсбук 2"
+
+#: includes/admin/design.php:651
+msgid "Animation Facebook 1"
+msgstr "Анимация Фейсбук 1"
+
+#: includes/admin/design.php:650
+msgid "Dual Ring"
+msgstr "Двойное кольцо"
+
+#: includes/admin/design.php:644
+msgid "Loading Type"
+msgstr "Тип загрузки"
+
+#: includes/admin/design.php:617
+msgid "Sidebar Trigger Event Style"
+msgstr "Стиль триггерного события боковой панели"
+
+#: includes/admin/design.php:579
+msgid "Shake Vertical"
+msgstr "Встряхнуть по вертикали"
+
+#: includes/admin/design.php:578
+msgid "Shake Horizontal"
+msgstr "Встряхнуть по горизонтали"
+
+#: includes/admin/design.php:554
+msgid "Fly To Cart"
+msgstr "Лететь в корзину"
+
+#: includes/admin/design.php:533
+msgid "Border Radius For Sidebar Cart Content(px)"
+msgstr "Радиус границы для содержимого корзины боковой панели (px)"
+
+#: includes/admin/design.php:828
+msgid "Sidebar Cart Vertical(px)"
+msgstr "Боковая панель Корзина по вертикали (px)"
+
+#: includes/admin/design.php:807
+msgid "Sidebar Cart Horizontal(px)"
+msgstr "Боковая панель Корзина по горизонтали (px)"
+
+#: includes/admin/design.php:479
+msgid "Sidebar Cart Position"
+msgstr "Положение корзины на боковой панели"
+
+#: includes/admin/design.php:459
+msgid "Display Sidebar Content"
+msgstr "Отображение содержимого боковой панели"
+
+#: includes/admin/design.php:977
+msgid "Product Counter Border Radius(px)"
+msgstr "Радиус границы счетчика продукта (px)"
+
+#: includes/admin/design.php:942
+msgid "Product Counter Background Color"
+msgstr "Цвет фона счетчика товаров"
+
+#: includes/admin/design.php:961
+msgid "Product Counter Color"
+msgstr "Цвет счетчика продукта"
+
+#: includes/admin/design.php:464
+msgid "Style two"
+msgstr "Второй стиль"
+
+#: includes/admin/design.php:463
+msgid "Style one"
+msgstr "Первый стиль"
+
+#: includes/admin/design.php:785
+msgid "Cart Icon Radius(px)"
+msgstr "Радиус значка корзины (px)"
+
+#: includes/admin/design.php:889
+msgid "Cart Icon Background"
+msgstr "Фон значка корзины"
+
+#: includes/admin/design.php:724
+msgid "Enable Box Shadow"
+msgstr "Включить тень блока"
+
+#: includes/admin/design.php:1225
+msgid "Apply Coupon Button Radius(px)"
+msgstr "Применить радиус кнопки купона (px)"
+
+#: includes/admin/design.php:1207
+msgid "Apply Coupon Button Hover Text Color"
+msgstr "Применить цвет текста при наведении кнопки купона"
+
+#: includes/admin/design.php:1187
+msgid "Apply Coupon Button Hover Background"
+msgstr "Применить фон кнопки купона при наведении"
+
+#: includes/admin/design.php:1168
+msgid "Apply Coupon Button Text Color"
+msgstr "Применить цвет текста кнопки купона"
+
+#: includes/admin/design.php:1148
+msgid "Apply Coupon Button Background"
+msgstr "Применить фон кнопки купона"
+
+#: includes/admin/design.php:1125
+msgid "Coupon Input Radius(px)"
+msgstr "Радиус ввода купона (px)"
+
+#: includes/admin/design.php:1108
+msgid "Enable Coupon"
+msgstr "Включить добавление купона"
+
+#: includes/admin/design.php:1091
+msgid "Title Color"
+msgstr "Цвет заголовка"
+
+#: includes/admin/design.php:1072
+msgid "Cart Title"
+msgstr "Название корзины"
+
+#: includes/admin/design.php:1055
+msgid "Header Border Color"
+msgstr "Цвет границы заголовка"
+
+#: includes/admin/design.php:1030
+msgid "Header Border Style "
+msgstr "Стиль границы заголовка"
+
+#: includes/admin/design.php:1753
+msgid "Number Of Products To Show"
+msgstr "Количество товаров для показа"
+
+#: includes/admin/design.php:1736
+msgid "Product Plus Title Color"
+msgstr "Продукт плюс цвет заголовка"
+
+#: includes/admin/design.php:1687
+msgid "Best Selling Products"
+msgstr "Самые продаваемые продукты"
+
+#: includes/admin/design.php:1699
+msgid "Show Products Plus"
+msgstr "Показать продукты плюс"
+
+#: includes/admin/design.php:1631
+msgid "Update Button Hover Text Color"
+msgstr "Обновить цвет текста при наведении на кнопку"
+
+#: includes/admin/design.php:1612
+msgid "Update Button Hover Background"
+msgstr "Обновить фон кнопки при наведении"
+
+#: includes/admin/design.php:1592
+msgid "Update Button Text Color"
+msgstr "Обновить цвет текста кнопки"
+
+#: includes/admin/design.php:1572
+msgid "Update Button Background"
+msgstr "Обновить фон кнопки"
+
+#: includes/admin/design.php:1547
+msgid "Button Radius(px)"
+msgstr "Кнопка Радиус (px)"
+
+#: includes/admin/design.php:1529
+msgid "Button Hover Text Color"
+msgstr "Цвет текста при наведении на кнопку"
+
+#: includes/admin/design.php:1509
+msgid "Button Hover Background"
+msgstr "Фон кнопки при наведении"
+
+#: includes/admin/design.php:1489
+msgid "Button Text Color"
+msgstr "Цвет текста кнопки"
+
+#: includes/admin/design.php:1469
+msgid "Button Background"
+msgstr "Фон кнопки"
+
+#: includes/admin/design.php:1451
+msgid "Checkout Button Text"
+msgstr "Текст кнопки оформления заказа"
+
+#: includes/admin/design.php:1435
+msgid "View Cart Button Text"
+msgstr "Посмотреть текст кнопки корзины"
+
+#: includes/admin/design.php:1419
+msgid "Checkout "
+msgstr "Оплатить"
+
+#: includes/admin/design.php:1418
+msgid "View cart "
+msgstr "Посмотреть корзину"
+
+#: includes/admin/design.php:1413
+msgid "Button Enable"
+msgstr "Включить \"Кнопка\""
+
+#: includes/admin/design.php:1376
+msgid "Total Color"
+msgstr "Общий цвет"
+
+#: includes/admin/design.php:1341
+msgid "Cart total"
+msgstr "Всего в корзине"
+
+#: includes/admin/design.php:1340
+msgid "Subtotal (total of products)"
+msgstr "Итого (всего продуктов)"
+
+#: includes/admin/design.php:1335
+msgid "Price to display"
+msgstr "Цена для отображения"
+
+#: includes/admin/design.php:1302
+msgid "Footer Border Color"
+msgstr "Цвет границы нижнего колонтитула"
+
+#: includes/admin/design.php:1034 includes/admin/design.php:1281
+msgid "No border"
+msgstr "Без границ"
+
+#: includes/admin/design.php:1277
+msgid "Footer Border Style"
+msgstr "Стиль границы нижнего колонтитула"
+
+#: includes/admin/design.php:2085
+msgid "Trash Icon Hover Color"
+msgstr "Цвет значка корзины при наведении"
+
+#: includes/admin/design.php:2067
+msgid "Trash Icon Color"
+msgstr "Цвет значка корзины"
+
+#: includes/admin/design.php:2026
+msgid "Trash Icon Style"
+msgstr "Стиль значка корзины"
+
+#: includes/admin/design.php:1395 includes/admin/design.php:1938
+msgid "Price Color"
+msgstr "Цвет цены"
+
+#: includes/admin/design.php:1918
+msgid "Name Hover Color"
+msgstr "Название Цвет при наведении"
+
+#: includes/admin/design.php:1900
+msgid "Name Color"
+msgstr "Название Цвет"
+
+#: includes/admin/design.php:1858
+msgid "Product Image Border Radius(px)"
+msgstr "Радиус границы изображения продукта (px)"
+
+#: includes/admin/design.php:1840
+msgid "Enable Image Box Shadow"
+msgstr "Включить тень окна изображения"
+
+#: includes/admin/design.php:2313
+msgid "Text Color Hover"
+msgstr "Цвет текста при наведении"
+
+#: includes/admin/design.php:2295
+msgid "Text Color"
+msgstr "Цвет текста"
+
+#: includes/admin/design.php:2271
+msgid "Menu Cart Price"
+msgstr "Меню Корзины Цены"
+
+#: includes/admin/design.php:2255
+msgid "Product Counter & Price"
+msgstr "Счетчик продуктов и цен"
+
+#: includes/admin/design.php:2253
+msgid "Product Counter"
+msgstr "Счетчик продуктов"
+
+#: includes/admin/design.php:2248
+msgid "Menu Cart Text"
+msgstr "Текст корзины меню"
+
+#: includes/admin/design.php:2230
+msgid "Cart Icon Hover Color"
+msgstr "Цвет значка корзины при наведении"
+
+#: includes/admin/design.php:907 includes/admin/design.php:2210
+msgid "Cart Icon Color"
+msgstr "Цвет значка корзины"
+
+#: includes/admin/design.php:870 includes/admin/design.php:2190
+msgid "Cart Icon Type"
+msgstr "Тип значка корзины"
+
+#: includes/admin/design.php:2168
+msgid "Show Content Cart"
+msgstr "Показать корзину содержимого"
+
+#: includes/admin/design.php:2145
+msgid "Navigation Page"
+msgstr "Страница навигации"
+
+#: includes/admin/cart.php:96 includes/admin/design.php:2098
+msgid "Menu Cart"
+msgstr "Корзина меню"
+
+#: includes/admin/design.php:1788
+msgid "Sidebar Cart List Products"
+msgstr "Боковая панель Корзина Список продуктов"
+
+#: includes/admin/design.php:1242
+msgid "Sidebar Cart Footer"
+msgstr "Нижний колонтитул корзины на боковой панели"
+
+#: includes/admin/design.php:995
+msgid "Sidebar Cart Header"
+msgstr "Заголовок корзины на боковой панели"
+
+#: includes/admin/design.php:688
+msgid "Sidebar Cart Icon"
+msgstr "Значок корзины на боковой панели"
+
+#: includes/admin/cart.php:95 includes/admin/design.php:413
+msgid "Sidebar Cart"
+msgstr "Корзина боковой панели"
+
+#: includes/templates/sidebar-cart/sc-content.php:95
+#: includes/templates/sidebar-cart/sc-content.php:119
+msgid "Update Cart"
+msgstr "Обновить корзину"
+
+#. Author URI of the plugin
+msgid "https://villatheme.com"
+msgstr "https://villatheme.com"
+
+#. Author of the plugin
+msgid "VillaTheme"
+msgstr "Тема Villa"
+
+#. Description of the plugin
+msgid "Cart All In One For WooCommerce helps your customers view cart effortlessly."
+msgstr "Cart All In One For WooCommerce помогает вашим клиентам легко просматривать корзину."
+
+#. Plugin URI of the plugin
+msgid "https://villatheme.com/extensions/woocommerce-cart-all-in-one/"
+msgstr "https://villatheme.com/extensions/woocommerce-cart-all-in-one/"
+
+#. Plugin Name of the plugin
+#: includes/admin/cart.php:18 includes/admin/cart.php:85
+#: includes/admin/design.php:395
+msgid "Cart All In One For WooCommerce"
+msgstr "Все в одной корзине для WooCommerce"
+
+#: includes/templates/sidebar-cart/sc-content.php:47
+msgid "Apply"
+msgstr "Применить"
+
+#: includes/admin/design.php:2150
+msgid "Cart page"
+msgstr "Страница корзины"
+
+#: includes/admin/design.php:2151
+msgid "Checkout page"
+msgstr "Страница оформления заказа"
+
+#: includes/templates/sidebar-cart/sc-content.php:40
+msgid "Coupon code"
+msgstr "Код купона"
+
+#: includes/admin/design.php:649
+msgid "Default"
+msgstr "По умолчанию"
+
+#: includes/admin/cart.php:110 includes/admin/cart.php:196
+#: includes/admin/cart.php:231 includes/admin/cart.php:312
+#: includes/admin/cart.php:413 includes/admin/design.php:427
+#: includes/admin/design.php:2113
+msgid "Enable"
+msgstr "Включение"
+
+#: includes/admin/design.php:648
+msgid "Hidden"
+msgstr "Скрыто везде"
+
+#: includes/templates/sidebar-cart/sc-product-list-html.php:7
+msgid "No products in the cart."
+msgstr "Корзина пуста."
+
+#: includes/admin/design.php:2254
+msgid "Price"
+msgstr "Цена"
+
+#: includes/admin/cart.php:98
+msgid "Recently Viewed Products"
+msgstr "Недавно просмотренные товары"
+
+#: includes/admin/admin.php:19 includes/admin/admin.php:20
+msgid "Settings"
+msgstr "Настройки"
+
+#: includes/admin/design.php:2277
+msgid "Subtotal"
+msgstr "Подытог"
+
+#: includes/admin/design.php:1693
+msgid "Top Rated Products"
+msgstr "Рейтинговые товары"
+
+#: includes/admin/design.php:2276
+msgid "Total"
+msgstr "Итого"
+
+#: includes/admin/design.php:1012 includes/admin/design.php:1259
+#: includes/admin/design.php:1822
+msgid "Background Color"
+msgstr "Цвет фона"
+
+#: includes/admin/design.php:485
+msgid "Bottom Left"
+msgstr "Внизу слева"
+
+#: includes/admin/design.php:486
+msgid "Bottom Right"
+msgstr "Внизу справа"
+
+#: includes/admin/design.php:2381 includes/admin/design.php:2398
+msgid "Custom CSS"
+msgstr "Произвольные CSS-стили"
+
+#: includes/admin/design.php:1037 includes/admin/design.php:1284
+msgid "Dashed"
+msgstr "Пунктир"
+
+#: includes/admin/design.php:1036 includes/admin/design.php:1283
+msgid "Dotted"
+msgstr "Точки"
+
+#: includes/admin/cart.php:268
+msgid "Menus"
+msgstr "Меню"
+
+#: includes/admin/design.php:1035 includes/admin/design.php:1282
+msgid "Solid"
+msgstr "Сплошной"
+
+#: includes/admin/design.php:483
+msgid "Top Left"
+msgstr "Вверху слева"
+
+#: includes/admin/design.php:484
+msgid "Top Right"
+msgstr "Вверху справа"
